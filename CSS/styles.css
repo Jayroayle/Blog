@@ -8,18 +8,18 @@
 .mainHeading {color: black;
   text-align: center;
   font-family: "Comic Sans MS";
-  font-size: 200px;
   font-weight: bold;
   text-decoration: underline;
  }
-.title {color: black;
+.title {
+  color: black;
   text-align: left;
   font-family: "Comic Sans MS";
-  font-size: 125px;
   font-weight: bold;
   text-decoration: underline;
 }
-#divLeft { width: 400px;
+#divLeft {
+       width: 400px;
 		   height: 200px;
 		   border: 3px 78756D;
 		   float: left;
